@@ -1,7 +1,7 @@
 DateInterval
 ============
 
-[![Build Status](https://travis-ci.org/herrera-io/php-date-interval.png)](http://travis-ci.org/herrera-io/php-date-interval)
+[![Build Status](https://travis-ci.org/tubssz/php-date-interval.png)](http://travis-ci.org/tubssz/php-date-interval)
 
 Provides additional functionality to the DateInterval class.
 
@@ -22,7 +22,7 @@ Installation
 Add it to your list of Composer dependencies:
 
 ```sh
-$ composer require herrera-io/date-interval=1.*
+$ composer require tubssz/date-interval=1.*
 ```
 
 Usage
