@@ -1,8 +1,8 @@
 {
-    "name": "tubssp/date-interval",
+    "name": "tubssz/date-interval",
     "description": "Provides additional functionality to the DateInterval class.",
     "keywords": ["date", "time", "interval"],
-    "homepage": "https://github.com/tubssp/php-date-interval",
+    "homepage": "https://github.com/tubssz/php-date-interval",
     "license": "MIT",
     "authors": [
         {
@@ -16,10 +16,10 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/tubssp/php-date-interval/issues"
+        "issues": "https://github.com/tubssz/php-date-interval/issues"
     },
     "require": {
-        "php": ">=5.3",
+        "php": ">=5.3|~7.0",
         "ext-bcmath": "*"
     },
     "require-dev": {
